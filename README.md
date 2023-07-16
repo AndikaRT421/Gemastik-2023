@@ -1,8 +1,7 @@
 # Gemastik-2023 (Data Mining Competition)
 
 ## Judul Penelitian
-<span style="color:orange;font-weight:700;font-size:20px;text-align:center">
-Analisis Time-Series LSTM dan Attention Mechanism untuk Prediksi Energi Surya di IKN</span>
+<h3 align="center", color = "orange">Analisis Time-Series LSTM dan Attention Mechanism untuk Prediksi Energi Surya di IKN</h3>
 
 ![Gambar](https://www.build-review.com/wp-content/uploads/2022/06/Government-Solar-Scheme.jpg)
 
