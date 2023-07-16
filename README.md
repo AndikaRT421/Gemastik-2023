@@ -3,7 +3,7 @@
 ## Judul Penelitian
 **Analisis Time-Series LSTM dan Attention Mechanism untuk Prediksi Energi Surya di IKN**
 
-![Gambar] (https://www.build-review.com/wp-content/uploads/2022/06/Government-Solar-Scheme.jpg)
+![Gambar](https://www.build-review.com/wp-content/uploads/2022/06/Government-Solar-Scheme.jpg)
 
 [Image source](https://www.build-review.com/wp-content/uploads/2022/06/Government-Solar-Scheme.jpg)
 
